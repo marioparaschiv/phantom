@@ -1,0 +1,10 @@
+Package: me.eternal.phantom
+Name: Phantom
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Seamlessly block screenshot and screen recording detection in iOS apps.
+Maintainer: eternal
+Author: eternal
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Icon: https://github.com/localip/phantom/blob/main/assets/icon.png?raw=true
