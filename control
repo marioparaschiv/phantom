@@ -1,6 +1,6 @@
 Package: me.eternal.phantom
 Name: Phantom
-Version: 1.0.0
+Version: 1.1.0
 Architecture: iphoneos-arm
 Description: Seamlessly block screenshot and screen recording detection in iOS apps.
 Maintainer: eternal
