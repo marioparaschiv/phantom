@@ -7,4 +7,4 @@ Maintainer: eternal
 Author: eternal
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Icon: https://github.com/localip/phantom/blob/main/assets/icon.png?raw=true
+Icon: https://github.com/marioparaschiv/phantom/blob/main/assets/icon.png?raw=true
