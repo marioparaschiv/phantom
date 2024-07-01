@@ -9,3 +9,5 @@
 
 ---
 
+## Licensing
+See [LICENSE](/LICENSE).
